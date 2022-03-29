@@ -1,0 +1,30 @@
+Polecam sprawdzić plik: "Dziennik_Aktualizacji.txt"
+- znajduje się tam ostatia lista bugfixów oraz zmian wniesionych przez aktualizacje;
+
+#___ Do ogółu ___#
+- zagrajcie i powiedzcie co nie działa;
+- dawajcie pomysły co jeszcze można dodać
+
+#___ Do grafików ___#
+- ogarnijcie grafikę mapy
+- zróbcie postać w 2D (jak najprostrzą) oraz kilka innych wyglądów postaci które będą użyte jako ludzie (AI) na ulicy
+
+#___ Do programistów ___#
+- opracowywać nowe systemy aktualnie {
+	Ekwipunek;
+	Potrzeby gracza;
+	Zaspokajanie potrzeb;
+	Kupowanie rzeczy w sklepie;
+}
+
+#___ Do dźwiękowców ___#
+- znajdźcie pasującą muzykę do gry
+
+========== ROAD MAP ========== { MAPA ROZWOJU (zaplanowane na niebawem) }
+- Dodanie wszystkich sklepów(sklep z gratami, sklep z bronią)
+- System Kasyn,
+	Gieudy(Aukcje oraz Inwestycje), 
+		Szkoła(Punkty wiedzy), 
+			Reputacja w społeczeństwie ,
+				Bazaru gracza(przedmioty, drug'i), 
+					Gangi, Wojny gangów
